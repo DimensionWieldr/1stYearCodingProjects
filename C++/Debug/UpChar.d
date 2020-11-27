@@ -1,0 +1,1 @@
+UpChar.o: ../UpChar.cpp
